@@ -95,3 +95,8 @@ Thumbs.db
 *.bak
 *.swp
 .clang-format.bak
+
+# Binary files
+*.exec
+heap_sort
+
