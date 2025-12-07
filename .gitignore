@@ -99,4 +99,7 @@ Thumbs.db
 # Binary files
 *.exec
 heap_sort
-
+insertion_sort
+merge_sort
+quick_sort
+selection_sort
