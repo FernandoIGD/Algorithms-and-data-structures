@@ -53,3 +53,45 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Build directories
+build/
+dist/
+bin/
+cmake-build-*/
+
+# CMake
+CMakeUserPresets.json
+CMakeFiles/
+cmake_install.cmake
+
+# Compiled Python files (if using build scripts)
+__pycache__/
+*.pyc
+*.pyo
+
+# Dependencies
+.deps/
+vendor/
+include/
+lib/
+
+# OS files
+Thumbs.db
+.directory
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.clang-format.bak
