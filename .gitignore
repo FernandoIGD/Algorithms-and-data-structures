@@ -102,4 +102,4 @@ heap_sort
 insertion_sort
 merge_sort
 quick_sort
-selection_sort
+counting_sort
